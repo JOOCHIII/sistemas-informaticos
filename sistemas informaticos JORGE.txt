@@ -15,7 +15,7 @@ Ejercicio 2
 
 mkdir libro cd libro git init
 
-ls -la
+
 
 Ejercicio 3
 
