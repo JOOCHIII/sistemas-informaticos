@@ -47,7 +47,7 @@ capitulo 4: Repositorios remotos
 2. Mostrar los cambios con respecto a la última versión
 guardada en el repositorio.
 3. Hacer un commit de los cambios con el mensaje “Añadido
-PASO 3 sobre gestión de ramas”.
+capitulo 3 sobre gestión de ramas”.
 
 1. Modificar el archivo indice.txt
 echo -e 
