@@ -21,9 +21,9 @@ Ejercicio 3
 
 git status
 
-PASO 1: Introducción a Git\n
-PASO 2: Flujo de trabajo básico\n
-PASO 3: Repositorios remotos" > indice.txt
+capitulo 1: Introducción a Git\n
+capitulo 2: Flujo de trabajo básico\n
+capitulo 3: Repositorios remotos" > indice.txt
 
 git status
 
@@ -40,10 +40,10 @@ git status
 
 Ejercicio 5
 1. Cambiar el fichero indice.txt para que contenga lo siguiente:
-PASO 1: Introducción a Git
-PASO 2: Flujo de trabajo básico
-PASO 3: Gestión de ramas
-PASO 4: Repositorios remotos
+capitulo 1: Introducción a Git
+capitulo 2: Flujo de trabajo básico
+capitulo 3: Gestión de ramas
+capitulo 4: Repositorios remotos
 2. Mostrar los cambios con respecto a la última versión
 guardada en el repositorio.
 3. Hacer un commit de los cambios con el mensaje “Añadido
@@ -51,10 +51,10 @@ PASO 3 sobre gestión de ramas”.
 
 1. Modificar el archivo indice.txt
 echo -e 
-PASO 1: Introducción a Git\n
-PASO 2: Flujo de trabajo básico\n
-PASO 3: Gestión de ramas\n
-PASO 4: Repositorios remotos"  indice.txt
+capitulo 1: Introducción a Git\n
+capitulo 2: Flujo de trabajo básico\n
+capitulo 3: Gestión de ramas\n
+capitulo 4: Repositorios remotos"  indice.txt
 
 git diff
 
